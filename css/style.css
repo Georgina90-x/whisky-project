@@ -2,6 +2,15 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+.container-wrapper {
+
+}
+
+.container-wrapper--red {
+    background-color: #f05f40;
+    color: white;
+}
+
 .alert-container .col-12 {
     padding-left: 0;
     padding-right: 0;
@@ -98,16 +107,20 @@ body {
     color: #d0d0d0;
 }
 
-.quotes-container
+.quotes-container {
 
-.features-container
+}
 
+.features-container {
+
+}
 /* Page Headers */
 
 .block-divider {
     margin-bottom: 0;
     border-bottom: 0;
     text-align: center;
+    background-color: #444; 
 }
 
 .page-header h2 {
@@ -131,6 +144,13 @@ body {
 
 .block-divider--short {
     width: 35px;
+}
+
+/* Content Containers */
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
 }
 
 /* Buttons */
