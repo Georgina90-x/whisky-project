@@ -98,6 +98,24 @@ body {
     color: #d0d0d0;
 }
 
+.quotes-container
+
+.features-container
+
+/* Page Headers */
+
+.block-divider {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-top: 0;
+}
+
+
+
 /* Block dividers */
 
 .block-divider {
